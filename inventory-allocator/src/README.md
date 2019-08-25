@@ -2,7 +2,7 @@
 
 The src folder contains compiled class files. You can just run the compiled class file with:
 
-`java InventoryAllcator`
+`java InventoryAllocator`
 
 Or if you want to compile the class files on your own:
 
